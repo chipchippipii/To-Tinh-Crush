@@ -1,19 +1,16 @@
 const CONFIG = {
-    introTitle: 'Tên người yêu bạn à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
+    introTitle: 'Anh iu ơiiii',
+    introDesc: `Có nhớ em nhìu hongg`,
+    btnIntro: 'moah moah chụt',
+    title: 'Phải chăng anh đã yêu em từ cái nhìn đầu tiên 😙',
+    desc: 'Phải chăng anh đã luôn mong chờ hun em mỗi đêm ngày 😘 ',
+    btnYes: 'Đúng òi <33',
+    btnNo: 'Sao em biết hay zậy :3',
+    question:'Iu em nhìu nhìu hong',
+    btnReply: 'Hun em nhìu nhìu nhóoo',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    mess: 'Em biết mà 🥰. Yêu anh nhiều nhiều 😘😘',
+    messDesc: 'Hong được quên em nghen Chúc ngủ ngon hun em ngheee',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'http://fb.com/littlepermchipchip'
 }
